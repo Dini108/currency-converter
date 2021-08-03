@@ -1,6 +1,6 @@
 {
     "name": "dini108/currency-converter",
-    "description": "php 5.4 currency tools",
+    "description": "php 7.4 currency tools",
     "license": "LGPL-3.0+",
     "authors": [
         {
