@@ -1,0 +1,19 @@
+{
+    "name": "dini108/currency-converter",
+    "description": "php 5.4 currency tools",
+    "license": "LGPL-3.0+",
+    "authors": [
+        {
+            "name": "Berta Dénes",
+            "email": "berta.dnes@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
