@@ -25,14 +25,14 @@ $currencyConverter = new \Dini108\CurrencyConverter\CurrencyConverter($apiKey);
 Get avaliable currencies
 
 ```
-$convertedValue = $currencyConverter
+$currencies = $currencyConverter
     ->currencies();
 ```
 
 Get rates for currency 
 
 ```
-$convertedValue = $currencyConverter
+$rates = $currencyConverter
     ->rate('HUF');
 ```
 
