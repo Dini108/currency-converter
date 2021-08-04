@@ -22,7 +22,7 @@ $currencyConverter = new \Dini108\CurrencyConverter\CurrencyConverter($apiKey);
 ```
 ## Examples
 
-Get avaliable currencies
+Get available currencies
 
 ```
 $currencies = $currencyConverter
